@@ -1,0 +1,8 @@
+Estratégia:
+
+1 - Ligar o primeiro interruptor e esperar alguns minutos, isso fará com que a lâmpada correspondente aqueça.
+2 - Desligar o primeiro interruptor e ligar o segundo.
+3 - Depois ir na sala com as lâmpadas e verificar:
+Lâmpada acesa e quente: O primeiro interruptor controla essa lâmpada.
+Lâmpada acesa e fria: O segundo interruptor controla essa lâmpada.
+Lâmpada apagada: O terceiro interruptor controla essa lâmpada.
